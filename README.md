@@ -1,4 +1,9 @@
-# XYZ
+# Design-Portfolio
+
+## Project Description
+This project is a basic, static portfolio webpage design created using HTML and CSS. This is a purely front-end project, so no server or backend technology is required. You can easily customize the content, colors, and styles to match your preferences.
+
+###
 
 #### THIS REPO IS READY FOR HacktoberFest-23 You can start contributing!!
 
